@@ -1,4 +1,4 @@
-
+```
 This repository is a collection of my various hobby projects.
 Working on filling the holes in my knowledge of low-level computing
 
@@ -12,3 +12,4 @@ Outside the browser, my first programming language was VisualBasic6 r.i.p.
 I have been working outside of the computer industry since 2015.
 Currently having tons of fun with Zig, which has inspired me to take
 programming seriously again.
+```
